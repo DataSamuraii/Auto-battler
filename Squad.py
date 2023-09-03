@@ -60,20 +60,38 @@ class UndeadCharacterFactory(CharacterFactory):
 
 
 class Squad:
-    def __init__(self, side):
+    def __init__(self, side, event_manager):
         self._characters = []
+        self._enhanced_characters = []
         self.side = side
+        self.event_manager = event_manager
+        self.event_manager.add_listener('character_enhanced', self.on_character_enhanced)
+        self.event_manager.add_listener('character_dehanced', self.on_character_dehanced)
+
+    def on_character_enhanced(self, event):
+        if event.data not in self._enhanced_characters:
+            self._enhanced_characters.append(event.data)
+
+    def on_character_dehanced(self, event):
+        if event.data in self._enhanced_characters:
+            self._enhanced_characters.remove(event.data)
 
     def unpack_characters(self, character_list):
         for char in character_list:
             char.death_callback = self.character_death
+            char.event_manager = self.event_manager
             self._characters.append(char)
 
     def remove_character(self, character):
         self._characters.remove(character)
+        if character in self._enhanced_characters:
+            self._enhanced_characters.remove(character)
 
     def character_death(self, character):
         self.remove_character(character)
 
     def get_characters(self):
         return self._characters
+
+    def get_enhanced_characters(self):
+        return self._enhanced_characters

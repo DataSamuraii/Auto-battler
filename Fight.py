@@ -5,6 +5,10 @@ class Fight:
     def __init__(self, squad1, squad2):
         self.squad1 = squad1
         self.squad2 = squad2
+        self.characters1 = self.squad1.get_characters()
+        self.characters2 = self.squad2.get_characters()
+        self.enhanced_characters1 = self.squad1.get_enhanced_characters()
+        self.enhanced_characters2 = self.squad2.get_enhanced_characters()
 
     def choose_random_character(self, squad):
         return random.choice(squad)
@@ -16,29 +20,37 @@ class Fight:
         return None
 
     def execute_turn(self, attacking_squad, defending_squad):
+        attackers = attacking_squad.get_characters()
+        defenders = defending_squad.get_characters()
         temp_char_storage = []
-        while attacking_squad:
-            attacker = self.choose_random_character(attacking_squad)
-            temp_char_storage.append(attacker)
+        while attackers and defenders:
+            enhanced_attackers = attacking_squad.get_enhanced_characters()
+            if enhanced_attackers:
+                attacker = self.choose_random_character(enhanced_attackers)
+            else:
+                attacker = self.choose_random_character(attackers)
+                attackers.remove(attacker)
+                temp_char_storage.append(attacker)
             attack = self.choose_random_action(attacker)
-            if attack and defending_squad:
+            if attack:
                 if attack.__func__.__name__ == "action_enhance":
-                    defender = self.choose_random_character(attacking_squad)
+                    print(f'{attacker} uses enhance')
+                    if attackers:
+                        defender = self.choose_random_character(attackers)
+                    else:
+                        defender = self.choose_random_character(temp_char_storage)
                 else:
-                    defender = self.choose_random_character(defending_squad)
+                    defender = self.choose_random_character(defenders)
                 attack(defender)
-            attacking_squad.remove(attacker)
-        attacking_squad.extend(temp_char_storage)
+        attackers.extend(temp_char_storage)
 
     def start_fight(self):
-        characters1 = self.squad1.get_characters()
-        characters2 = self.squad2.get_characters()
-        while characters1 and characters2:
+        while self.characters1 and self.characters2:
             if random.choice([True, False]):
-                self.execute_turn(characters1, characters2)
+                self.execute_turn(self.squad1, self.squad2)
             else:
-                self.execute_turn(characters2, characters1)
-        if characters1:
+                self.execute_turn(self.squad2, self.squad1)
+        if self.characters1:
             return f"{self.squad1.side} wins!"
         else:
             return f"{self.squad2.side} wins!"

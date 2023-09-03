@@ -1,4 +1,5 @@
 import random
+import EventManager
 
 
 def enhanced_attack(attack_method):
@@ -6,6 +7,7 @@ def enhanced_attack(attack_method):
         print(f'{self} is attacking {target}.')
         damage = attack_method(self, target)
         if self.is_enhanced:
+            print(f'{self} has enhanced damage.')
             damage *= 1.5
             self.is_enhanced = False
         target.take_damage(damage)
@@ -13,12 +15,13 @@ def enhanced_attack(attack_method):
 
 
 class Character:
-    def __init__(self, name, death_callback=None):
+    def __init__(self, name, death_callback=None, event_manager=None):
         self.name = name
         self.race = "Unknown"
         self.hp = 100
         self.death_callback = death_callback
-        self.is_enhanced = False
+        self._is_enhanced = False
+        self.event_manager = event_manager
 
     def __str__(self):
         return f'{self.name}, the {self.race}'
@@ -26,8 +29,22 @@ class Character:
     def __repr__(self):
         return self.__str__()
 
+    @property
+    def is_enhanced(self):
+        return self._is_enhanced
+
+    @is_enhanced.setter
+    def is_enhanced(self, value):
+        if value and not self._is_enhanced:
+            self.event_manager.emit(EventManager.CharacterEnhancedEvent(self))
+        elif not value and self._is_enhanced:
+            self.event_manager.emit(EventManager.CharacterDehancedEvent(self))
+        self._is_enhanced = value
+
     def enhance(self):
-        self.is_enhanced = True
+        print(f'{self} has been enhanced')
+        self._is_enhanced = True
+        self.event_manager.emit(EventManager.CharacterEnhancedEvent(self))
 
     def take_damage(self, damage):
         print(f'{self} has taken {damage} damage.')
@@ -66,6 +83,7 @@ class ElvenMage(Elf):
     @enhanced_attack
     def action_magic_attack(self, target):
         return self.magic_damage
+
 
 class ElvenArcher(Elf):
     def __init__(self):
@@ -159,11 +177,16 @@ class Ork(Character):
 
 
 class OrkShaman(Ork):
+    def __init__(self):
+        super().__init__()
+        self.magic_damage = 7
+
     def action_enhance(self, target):
         target.enhance()
 
-    def action_weaken(self, target):
-        pass
+    @enhanced_attack
+    def action_magic_attack(self, target):
+        return self.magic_damage
 
 
 class OrkArcher(Ork):
@@ -210,8 +233,8 @@ class UndeadNecromancer(Undead):
         super().__init__()
         self.magic_damage = 5
 
-    def action_weaken(self, target):
-        pass
+    def action_enhance(self, target):
+        target.enhance()
 
     @enhanced_attack
     def action_magic_attack(self, target):
