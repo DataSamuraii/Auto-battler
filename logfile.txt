@@ -1,159 +1,241 @@
-Orcenstein, the ork uses enhance
-Olm, the ork has been enhanced
-Olm, the ork is attacking Aaron, the human.
-Olm, the ork has enhanced damage.
-Aaron, the human has taken 30.0 damage.
-Croak, the ork is attacking Oliver, the human.
-Oliver, the human has taken 20 damage.
-Brag, the ork is attacking Peter, the human.
-Peter, the human has taken 3 damage.
-Croak, the ork is attacking Oliver, the human.
-Oliver, the human has taken 20 damage.
-Olm, the ork is attacking Peter, the human.
-Peter, the human has taken 20 damage.
-Tuh, the ork is attacking Aaron, the human.
-Aaron, the human has taken 3 damage.
-Brag, the ork is attacking Gavin, the human.
-Gavin, the human has taken 20 damage.
-Croak, the ork is attacking Peter, the human.
-Peter, the human has taken 3 damage.
-Croak, the ork is attacking Xavier, the human.
-Xavier, the human has taken 2 damage.
-Croak, the ork is attacking Caleb, the human.
-Caleb, the human has taken 20 damage.
-Brag, the ork is attacking Aaron, the human.
-Aaron, the human has taken 20 damage.
-Brag, the ork is attacking Lucas, the human.
-Lucas, the human has taken 3 damage.
-Croak, the ork is attacking Oliver, the human.
-Oliver, the human has taken 20 damage.
-Tuh, the ork is attacking Peter, the human.
-Peter, the human has taken 3 damage.
-Orcenstein, the ork is attacking Xavier, the human.
-Xavier, the human has taken 7 damage.
-Olm, the ork is attacking William, the human.
-William, the human has taken 20 damage.
-Croak, the ork is attacking Caleb, the human.
-Caleb, the human has taken 20 damage.
-Croak, the ork is attacking Aaron, the human.
-Aaron, the human has taken 20 damage.
-Olm, the ork is attacking William, the human.
-William, the human has taken 20 damage.
-Brag, the ork is attacking Aaron, the human.
-Aaron, the human has taken 20 damage.
-Brag, the ork is attacking William, the human.
-William, the human has taken 3 damage.
-Tuh, the ork is attacking William, the human.
-William, the human has taken 3 damage.
-Orcenstein, the ork uses enhance
-Croak, the ork has been enhanced
-Croak, the ork is attacking Aaron, the human.
-Croak, the ork has enhanced damage.
-Aaron, the human has taken 3.0 damage.
-Croak, the ork is attacking Caleb, the human.
-Caleb, the human has taken 2 damage.
-Croak, the ork is attacking Aaron, the human.
-Aaron, the human has taken 20 damage.
-Aaron, the human has died!
-Brag, the ork is attacking Lucas, the human.
-Lucas, the human has taken 2 damage.
-Tuh, the ork is attacking Caleb, the human.
-Caleb, the human has taken 2 damage.
-Croak, the ork is attacking William, the human.
-William, the human has taken 3 damage.
-Brag, the ork is attacking Xavier, the human.
-Xavier, the human has taken 20 damage.
-Orcenstein, the ork is attacking Oliver, the human.
-Oliver, the human has taken 7 damage.
-Olm, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Croak, the ork is attacking Oliver, the human.
-Oliver, the human has taken 20 damage.
-Olm, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Orcenstein, the ork is attacking Gavin, the human.
-Gavin, the human has taken 7 damage.
-Brag, the ork is attacking Gavin, the human.
-Gavin, the human has taken 20 damage.
-Brag, the ork is attacking Gavin, the human.
-Gavin, the human has taken 3 damage.
-Croak, the ork is attacking Oliver, the human.
-Oliver, the human has taken 2 damage.
-Tuh, the ork is attacking Lucas, the human.
-Lucas, the human has taken 3 damage.
-Croak, the ork is attacking Xavier, the human.
-Xavier, the human has taken 20 damage.
-Croak, the ork is attacking Gavin, the human.
-Gavin, the human has taken 20 damage.
-Tuh, the ork is attacking Xavier, the human.
-Xavier, the human has taken 2 damage.
-Croak, the ork is attacking Caleb, the human.
-Caleb, the human has taken 3 damage.
-Brag, the ork is attacking Oliver, the human.
-Oliver, the human has taken 20 damage.
-Oliver, the human has died!
-Olm, the ork is attacking Gavin, the human.
-Gavin, the human has taken 20 damage.
-Brag, the ork is attacking Peter, the human.
-Peter, the human has taken 2 damage.
-Orcenstein, the ork is attacking William, the human.
-William, the human has taken 7 damage.
-Croak, the ork is attacking Peter, the human.
-Peter, the human has taken 20 damage.
-Croak, the ork is attacking Gavin, the human.
-Gavin, the human has taken 20 damage.
-Gavin, the human has died!
-Croak, the ork is attacking Peter, the human.
-Peter, the human has taken 2 damage.
-Brag, the ork is attacking Xavier, the human.
-Xavier, the human has taken 20 damage.
-Brag, the ork is attacking Caleb, the human.
-Caleb, the human has taken 3 damage.
-Olm, the ork is attacking Caleb, the human.
-Caleb, the human has taken 20 damage.
-Croak, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Orcenstein, the ork is attacking Xavier, the human.
-Xavier, the human has taken 7 damage.
-Croak, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Tuh, the ork is attacking William, the human.
-William, the human has taken 3 damage.
-Croak, the ork is attacking Lucas, the human.
-Lucas, the human has taken 3 damage.
-Orcenstein, the ork is attacking William, the human.
-William, the human has taken 7 damage.
-Brag, the ork is attacking Xavier, the human.
-Xavier, the human has taken 2 damage.
-Brag, the ork is attacking Xavier, the human.
-Xavier, the human has taken 20 damage.
-Xavier, the human has died!
-Tuh, the ork is attacking Lucas, the human.
-Lucas, the human has taken 3 damage.
-Croak, the ork is attacking Peter, the human.
-Peter, the human has taken 20 damage.
-Olm, the ork is attacking Caleb, the human.
-Caleb, the human has taken 20 damage.
-Croak, the ork is attacking William, the human.
-William, the human has taken 20 damage.
-Brag, the ork is attacking Lucas, the human.
-Lucas, the human has taken 2 damage.
-Olm, the ork is attacking Caleb, the human.
-Caleb, the human has taken 20 damage.
-Caleb, the human has died!
-Croak, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Lucas, the human has died!
-Tuh, the ork is attacking William, the human.
-William, the human has taken 3 damage.
-Croak, the ork is attacking Peter, the human.
-Peter, the human has taken 20 damage.
-Croak, the ork is attacking William, the human.
-William, the human has taken 3 damage.
-Orcenstein, the ork is attacking Peter, the human.
-Peter, the human has taken 7 damage.
-Peter, the human has died!
-Brag, the ork is attacking William, the human.
-William, the human has taken 20 damage.
+Daniel, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 3 damage.
+Caleb, the human is attacking Ash, the undead.
+Ash, the undead has taken 5 damage.
+William, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 5 damage.
+William, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 4 damage.
+Henry, the human is attacking Decay, the undead.
+Decay, the undead has taken 18 damage.
+Oliver, the human is attacking Effigy, the undead.
+Effigy, the undead has taken 18 damage.
+Marcus, the human is attacking Effigy, the undead.
+Effigy, the undead has taken 18 damage.
+Brandon, the human is attacking Ash, the undead.
+Ash, the undead has taken 18 damage.
+William, the human is attacking Decay, the undead.
+Decay, the undead has taken 3 damage.
+Daniel, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 5 damage.
+Henry, the human is attacking Decay, the undead.
+Decay, the undead has taken 18 damage.
+Marcus, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 18 damage.
+Caleb, the human is attacking Effigy, the undead.
+Effigy, the undead has taken 5 damage.
+Oliver, the human is attacking Ash, the undead.
+Ash, the undead has taken 18 damage.
+William, the human is attacking Decay, the undead.
+Decay, the undead has taken 4 damage.
+Brandon, the human is attacking Decay, the undead.
+Decay, the undead has taken 18 damage.
+Epitaph, the undead is attacking William, the human.
+William, the human has taken 4 damage.
+Ash, the undead is attacking William, the human.
+William, the human has taken 18 damage.
+Desiccation, the undead is attacking Daniel, the human.
+Daniel, the human has taken 5 damage.
+Deeprot, the undead is attacking Caleb, the human.
+Caleb, the human has taken 4 damage.
+Cephalophore, the undead is attacking William, the human.
+William, the human has taken 18 damage.
+Decay, the undead is attacking Henry, the human.
+Henry, the human has taken 18 damage.
+Epitaph, the undead is attacking Brandon, the human.
+Brandon, the human has taken 4 damage.
+Effigy, the undead is attacking Brandon, the human.
+Brandon, the human has taken 18 damage.
+Marcus, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+William, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 5 damage.
+Oliver, the human is attacking Ash, the undead.
+Ash, the undead has taken 18 damage.
+Caleb, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 5 damage.
+Henry, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+Daniel, the human is attacking Decay, the undead.
+Decay, the undead has taken 5 damage.
+Brandon, the human is attacking Effigy, the undead.
+Effigy, the undead has taken 18 damage.
+William, the human uses enhance
+Daniel, the human has been enhanced
+Daniel, the human is attacking Caleb, the human.
+Daniel, the human has enhanced damage.
+Caleb, the human has taken 4.5 damage.
+Cephalophore, the undead is attacking William, the human.
+William, the human has taken 18 damage.
+Desiccation, the undead uses enhance
+Ash, the undead has been enhanced
+Ash, the undead is attacking William, the human.
+Ash, the undead has enhanced damage.
+William, the human has taken 27.0 damage.
+Epitaph, the undead is attacking Caleb, the human.
+Caleb, the human has taken 4 damage.
+Epitaph, the undead is attacking Marcus, the human.
+Marcus, the human has taken 2 damage.
+Deeprot, the undead is attacking William, the human.
+William, the human has taken 2 damage.
+Ash, the undead is attacking William, the human.
+William, the human has taken 18 damage.
+Decay, the undead is attacking William, the human.
+William, the human has taken 18 damage.
 William, the human has died!
-Horde wins!
+Effigy, the undead is attacking Daniel, the human.
+Daniel, the human has taken 18 damage.
+Decay, the undead is attacking Brandon, the human.
+Brandon, the human has taken 18 damage.
+Desiccation, the undead is attacking Marcus, the human.
+Marcus, the human has taken 5 damage.
+Effigy, the undead is attacking Henry, the human.
+Henry, the human has taken 18 damage.
+Ash, the undead is attacking Caleb, the human.
+Caleb, the human has taken 18 damage.
+Epitaph, the undead is attacking Brandon, the human.
+Brandon, the human has taken 2 damage.
+Cephalophore, the undead is attacking Caleb, the human.
+Caleb, the human has taken 18 damage.
+Deeprot, the undead is attacking William, the human.
+William, the human has taken 2 damage.
+Epitaph, the undead is attacking Daniel, the human.
+Daniel, the human has taken 2 damage.
+Oliver, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+William, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 5 damage.
+Daniel, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 3 damage.
+Brandon, the human is attacking Ash, the undead.
+Ash, the undead has taken 18 damage.
+Henry, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 18 damage.
+Caleb, the human is attacking Ash, the undead.
+Ash, the undead has taken 3 damage.
+Marcus, the human is attacking Ash, the undead.
+Ash, the undead has taken 18 damage.
+Daniel, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 3 damage.
+Henry, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+Caleb, the human is attacking Ash, the undead.
+Ash, the undead has taken 3 damage.
+Ash, the undead has died!
+Marcus, the human is attacking Effigy, the undead.
+Effigy, the undead has taken 18 damage.
+William, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 5 damage.
+Brandon, the human is attacking Decay, the undead.
+Decay, the undead has taken 18 damage.
+Oliver, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 18 damage.
+Cephalophore, the undead is attacking Caleb, the human.
+Caleb, the human has taken 18 damage.
+Deeprot, the undead is attacking Daniel, the human.
+Daniel, the human has taken 2 damage.
+Effigy, the undead is attacking William, the human.
+William, the human has taken 18 damage.
+Epitaph, the undead is attacking Daniel, the human.
+Daniel, the human has taken 2 damage.
+Desiccation, the undead uses enhance
+Decay, the undead has been enhanced
+Decay, the undead is attacking Henry, the human.
+Decay, the undead has enhanced damage.
+Henry, the human has taken 27.0 damage.
+Epitaph, the undead is attacking Caleb, the human.
+Caleb, the human has taken 4 damage.
+Decay, the undead is attacking Marcus, the human.
+Marcus, the human has taken 18 damage.
+Caleb, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 5 damage.
+Brandon, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+Marcus, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+Henry, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+William, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 3 damage.
+Oliver, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+Daniel, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 3 damage.
+Brandon, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 18 damage.
+Henry, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 18 damage.
+Caleb, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 3 damage.
+William, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 3 damage.
+Daniel, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 5 damage.
+Marcus, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 18 damage.
+Oliver, the human is attacking Decay, the undead.
+Decay, the undead has taken 18 damage.
+Decay, the undead has died!
+Caleb, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 5 damage.
+Henry, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 18 damage.
+Marcus, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+Epitaph, the undead has died!
+William, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 3 damage.
+Brandon, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+Oliver, the human is attacking Desiccation, the undead.
+Desiccation, the undead has taken 18 damage.
+Desiccation, the undead has died!
+Daniel, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 3 damage.
+Effigy, the undead is attacking Daniel, the human.
+Daniel, the human has taken 18 damage.
+Epitaph, the undead is attacking Caleb, the human.
+Caleb, the human has taken 2 damage.
+Cephalophore, the undead is attacking Henry, the human.
+Henry, the human has taken 18 damage.
+Deeprot, the undead is attacking Caleb, the human.
+Caleb, the human has taken 4 damage.
+Daniel, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 5 damage.
+Marcus, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+William, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 3 damage.
+Oliver, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+Henry, the human is attacking Epitaph, the undead.
+Epitaph, the undead has taken 18 damage.
+Epitaph, the undead has died!
+Brandon, the human is attacking Effigy, the undead.
+Effigy, the undead has taken 18 damage.
+Caleb, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 5 damage.
+Cephalophore, the undead is attacking Brandon, the human.
+Brandon, the human has taken 18 damage.
+Effigy, the undead is attacking Daniel, the human.
+Daniel, the human has taken 18 damage.
+Deeprot, the undead is attacking Henry, the human.
+Henry, the human has taken 4 damage.
+Daniel, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 3 damage.
+Brandon, the human is attacking Effigy, the undead.
+Effigy, the undead has taken 18 damage.
+Effigy, the undead has died!
+Marcus, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+Caleb, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 3 damage.
+William, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 5 damage.
+Oliver, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+Cephalophore, the undead has died!
+Henry, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 18 damage.
+Deeprot, the undead has died!
+Alliance wins!

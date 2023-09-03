@@ -26,3 +26,8 @@ class CharacterEnhancedEvent(Event):
 class CharacterDehancedEvent(Event):
     def __init__(self, character):
         super().__init__('character_dehanced', character)
+
+
+class CharacterDeathEvent(Event):
+    def __init__(self, character):
+        super().__init__('character_died', character)

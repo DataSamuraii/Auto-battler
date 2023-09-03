@@ -72,7 +72,7 @@ def start_game():
             print(result)
             sys.stdout = original_stdout
             print(f"Logs saved to {filename}")
-        elif choice == "7":
+        elif choice == "6":
             print("Goodbye!")
             break
         else:

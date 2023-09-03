@@ -15,11 +15,10 @@ def enhanced_attack(attack_method):
 
 
 class Character:
-    def __init__(self, name, death_callback=None, event_manager=None):
+    def __init__(self, name, event_manager=None):
         self.name = name
         self.race = "Unknown"
         self.hp = 100
-        self.death_callback = death_callback
         self._is_enhanced = False
         self.event_manager = event_manager
 
@@ -43,7 +42,7 @@ class Character:
 
     def enhance(self):
         print(f'{self} has been enhanced')
-        self._is_enhanced = True
+        self.is_enhanced = True
         self.event_manager.emit(EventManager.CharacterEnhancedEvent(self))
 
     def take_damage(self, damage):
@@ -54,8 +53,7 @@ class Character:
 
     def death(self):
         print(f'{self} has died!')
-        if self.death_callback:
-            self.death_callback(self)
+        self.event_manager.emit(EventManager.CharacterDeathEvent(self))
 
 
 class Elf(Character):
