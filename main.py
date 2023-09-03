@@ -1,26 +1,83 @@
 import random
-from Fight import Fight
+import sys
+
 import Squad
-import EventManager
+from Fight import Fight
+from EventManager import EventManager
+from Logger import Logger
+
+
+original_stdout = sys.stdout
 
 alliance_factories = [Squad.ElvenCharacterFactory, Squad.HumanCharacterFactory]
 horde_factories = [Squad.OrkCharacterFactory, Squad.UndeadCharacterFactory]
 
-alliance_chosen_races = random.sample(alliance_factories, 1)
-horde_chosen_races = random.sample(horde_factories, 1)
-
-event_manager = EventManager.EventManager()
-alliance_squad = Squad.Squad("Alliance", event_manager)
-for factory_class in alliance_chosen_races:
-    factory = factory_class()
-    alliance_squad.unpack_characters(factory.create_squad())
-
-horde_squad = Squad.Squad("Horde", event_manager)
-for factory_class in horde_chosen_races:
-    factory = factory_class()
-    horde_squad.unpack_characters(factory.create_squad())
+event_manager = EventManager()
 
 
-fight = Fight(alliance_squad, horde_squad)
-result = fight.start_fight()
-print(result)
+def initialize_squad(faction):
+    if faction == "Alliance":
+        factories = alliance_factories
+    else:
+        factories = horde_factories
+
+    chosen_races = random.sample(factories, 1)
+    squad = Squad.Squad(faction, event_manager)
+    for factory_class in chosen_races:
+        factory = factory_class()
+        squad.unpack_characters(factory.create_squad())
+
+    return squad
+
+
+def print_squad_members(squad):
+    for character in squad.characters:
+        print(character)
+
+
+def start_game():
+    alliance_squad = initialize_squad("Alliance")
+    horde_squad = initialize_squad("Horde")
+
+    filename = 'logfile.txt'
+
+    while True:
+        print("\n" + "=" * 50)
+        print("Commands:")
+        print("=" * 50)
+        print("1. Show Alliance Squad")
+        print("2. Show Horde Squad")
+        print("3. Re-generate Alliance Squad")
+        print("4. Re-generate Horde Squad")
+        print("5. Start the fight")
+        print("6. Exit")
+        print("=" * 50)
+
+        choice = input("\nChoose an option: ")
+
+        if choice == "1":
+            print('\t '.join(map(str, alliance_squad.get_characters())))
+        elif choice == "2":
+            print(horde_squad.get_characters())
+        elif choice == "3":
+            alliance_squad = initialize_squad("Alliance")
+            print(f'{alliance_squad.side} has been reinitialized')
+        elif choice == "4":
+            horde_squad = initialize_squad("Horde")
+            print(f'{horde_squad.side} has been reinitialized')
+        elif choice == "5":
+            sys.stdout = Logger("logfile.txt")
+            fight = Fight(alliance_squad, horde_squad)
+            result = fight.start_fight()
+            print(result)
+            sys.stdout = original_stdout
+            print(f"Logs saved to {filename}")
+        elif choice == "7":
+            print("Goodbye!")
+            break
+        else:
+            print("Invalid choice. Try again.")
+
+
+if __name__ == "__main__":
+    start_game()

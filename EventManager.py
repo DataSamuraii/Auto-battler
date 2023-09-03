@@ -21,10 +21,8 @@ class Event:
 class CharacterEnhancedEvent(Event):
     def __init__(self, character):
         super().__init__('character_enhanced', character)
-        print('Enhance event registered')
 
 
 class CharacterDehancedEvent(Event):
     def __init__(self, character):
         super().__init__('character_dehanced', character)
-        print('Dehance event registered')

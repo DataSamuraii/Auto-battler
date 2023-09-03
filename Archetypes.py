@@ -60,9 +60,9 @@ class Character:
 
 class Elf(Character):
     names = [
-        "Aranion", "Baelenorn", "Calanon", "Dagorhir", "Erevan", "Fëanor", "Gildor",
+        "Aranion", "Baelenorn", "Calanon", "Dagorhir", "Erevan", "Feanor", "Gildor",
         "Haldir", "Iliyanbruen", "Jhaeros", "Kethryll'ia", "Liriel", "Morgath",
-        "Narbondel", "Orodreth", "Pharaun", "Qilué", "Rizolvir", "Solas", "Talathel",
+        "Narbondel", "Orodreth", "Pharaun", "Qilue", "Rizolvir", "Solas", "Talathel",
         "Umbra", "Vhaerun", "Xiloscient", "Yathlanae", "Zephyrus"
     ]
 
@@ -219,7 +219,7 @@ class Undead(Character):
         "Maggot", "Crowrot", "Decay", "Elegy", "Crypt", "Graves", "Ash", "Mort",
         "Mortis", "Morty", "Mortimer", "Necros", "Styx", "Vulture", "Effigy",
         "Cephalophore", "Sepulchre", "Epitaph", "Deeprot", "Repose", "Atropos",
-        "Desiccation", "Shi", "D.K.", "Blöt", "Thanatos", "Foulgarb", "Grim"
+        "Desiccation", "Shi", "D.K.", "Blot", "Thanatos", "Foulgarb", "Grim"
     ]
 
     def __init__(self):

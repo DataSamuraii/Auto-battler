@@ -1,0 +1,159 @@
+Orcenstein, the ork uses enhance
+Olm, the ork has been enhanced
+Olm, the ork is attacking Aaron, the human.
+Olm, the ork has enhanced damage.
+Aaron, the human has taken 30.0 damage.
+Croak, the ork is attacking Oliver, the human.
+Oliver, the human has taken 20 damage.
+Brag, the ork is attacking Peter, the human.
+Peter, the human has taken 3 damage.
+Croak, the ork is attacking Oliver, the human.
+Oliver, the human has taken 20 damage.
+Olm, the ork is attacking Peter, the human.
+Peter, the human has taken 20 damage.
+Tuh, the ork is attacking Aaron, the human.
+Aaron, the human has taken 3 damage.
+Brag, the ork is attacking Gavin, the human.
+Gavin, the human has taken 20 damage.
+Croak, the ork is attacking Peter, the human.
+Peter, the human has taken 3 damage.
+Croak, the ork is attacking Xavier, the human.
+Xavier, the human has taken 2 damage.
+Croak, the ork is attacking Caleb, the human.
+Caleb, the human has taken 20 damage.
+Brag, the ork is attacking Aaron, the human.
+Aaron, the human has taken 20 damage.
+Brag, the ork is attacking Lucas, the human.
+Lucas, the human has taken 3 damage.
+Croak, the ork is attacking Oliver, the human.
+Oliver, the human has taken 20 damage.
+Tuh, the ork is attacking Peter, the human.
+Peter, the human has taken 3 damage.
+Orcenstein, the ork is attacking Xavier, the human.
+Xavier, the human has taken 7 damage.
+Olm, the ork is attacking William, the human.
+William, the human has taken 20 damage.
+Croak, the ork is attacking Caleb, the human.
+Caleb, the human has taken 20 damage.
+Croak, the ork is attacking Aaron, the human.
+Aaron, the human has taken 20 damage.
+Olm, the ork is attacking William, the human.
+William, the human has taken 20 damage.
+Brag, the ork is attacking Aaron, the human.
+Aaron, the human has taken 20 damage.
+Brag, the ork is attacking William, the human.
+William, the human has taken 3 damage.
+Tuh, the ork is attacking William, the human.
+William, the human has taken 3 damage.
+Orcenstein, the ork uses enhance
+Croak, the ork has been enhanced
+Croak, the ork is attacking Aaron, the human.
+Croak, the ork has enhanced damage.
+Aaron, the human has taken 3.0 damage.
+Croak, the ork is attacking Caleb, the human.
+Caleb, the human has taken 2 damage.
+Croak, the ork is attacking Aaron, the human.
+Aaron, the human has taken 20 damage.
+Aaron, the human has died!
+Brag, the ork is attacking Lucas, the human.
+Lucas, the human has taken 2 damage.
+Tuh, the ork is attacking Caleb, the human.
+Caleb, the human has taken 2 damage.
+Croak, the ork is attacking William, the human.
+William, the human has taken 3 damage.
+Brag, the ork is attacking Xavier, the human.
+Xavier, the human has taken 20 damage.
+Orcenstein, the ork is attacking Oliver, the human.
+Oliver, the human has taken 7 damage.
+Olm, the ork is attacking Lucas, the human.
+Lucas, the human has taken 20 damage.
+Croak, the ork is attacking Oliver, the human.
+Oliver, the human has taken 20 damage.
+Olm, the ork is attacking Lucas, the human.
+Lucas, the human has taken 20 damage.
+Orcenstein, the ork is attacking Gavin, the human.
+Gavin, the human has taken 7 damage.
+Brag, the ork is attacking Gavin, the human.
+Gavin, the human has taken 20 damage.
+Brag, the ork is attacking Gavin, the human.
+Gavin, the human has taken 3 damage.
+Croak, the ork is attacking Oliver, the human.
+Oliver, the human has taken 2 damage.
+Tuh, the ork is attacking Lucas, the human.
+Lucas, the human has taken 3 damage.
+Croak, the ork is attacking Xavier, the human.
+Xavier, the human has taken 20 damage.
+Croak, the ork is attacking Gavin, the human.
+Gavin, the human has taken 20 damage.
+Tuh, the ork is attacking Xavier, the human.
+Xavier, the human has taken 2 damage.
+Croak, the ork is attacking Caleb, the human.
+Caleb, the human has taken 3 damage.
+Brag, the ork is attacking Oliver, the human.
+Oliver, the human has taken 20 damage.
+Oliver, the human has died!
+Olm, the ork is attacking Gavin, the human.
+Gavin, the human has taken 20 damage.
+Brag, the ork is attacking Peter, the human.
+Peter, the human has taken 2 damage.
+Orcenstein, the ork is attacking William, the human.
+William, the human has taken 7 damage.
+Croak, the ork is attacking Peter, the human.
+Peter, the human has taken 20 damage.
+Croak, the ork is attacking Gavin, the human.
+Gavin, the human has taken 20 damage.
+Gavin, the human has died!
+Croak, the ork is attacking Peter, the human.
+Peter, the human has taken 2 damage.
+Brag, the ork is attacking Xavier, the human.
+Xavier, the human has taken 20 damage.
+Brag, the ork is attacking Caleb, the human.
+Caleb, the human has taken 3 damage.
+Olm, the ork is attacking Caleb, the human.
+Caleb, the human has taken 20 damage.
+Croak, the ork is attacking Lucas, the human.
+Lucas, the human has taken 20 damage.
+Orcenstein, the ork is attacking Xavier, the human.
+Xavier, the human has taken 7 damage.
+Croak, the ork is attacking Lucas, the human.
+Lucas, the human has taken 20 damage.
+Tuh, the ork is attacking William, the human.
+William, the human has taken 3 damage.
+Croak, the ork is attacking Lucas, the human.
+Lucas, the human has taken 3 damage.
+Orcenstein, the ork is attacking William, the human.
+William, the human has taken 7 damage.
+Brag, the ork is attacking Xavier, the human.
+Xavier, the human has taken 2 damage.
+Brag, the ork is attacking Xavier, the human.
+Xavier, the human has taken 20 damage.
+Xavier, the human has died!
+Tuh, the ork is attacking Lucas, the human.
+Lucas, the human has taken 3 damage.
+Croak, the ork is attacking Peter, the human.
+Peter, the human has taken 20 damage.
+Olm, the ork is attacking Caleb, the human.
+Caleb, the human has taken 20 damage.
+Croak, the ork is attacking William, the human.
+William, the human has taken 20 damage.
+Brag, the ork is attacking Lucas, the human.
+Lucas, the human has taken 2 damage.
+Olm, the ork is attacking Caleb, the human.
+Caleb, the human has taken 20 damage.
+Caleb, the human has died!
+Croak, the ork is attacking Lucas, the human.
+Lucas, the human has taken 20 damage.
+Lucas, the human has died!
+Tuh, the ork is attacking William, the human.
+William, the human has taken 3 damage.
+Croak, the ork is attacking Peter, the human.
+Peter, the human has taken 20 damage.
+Croak, the ork is attacking William, the human.
+William, the human has taken 3 damage.
+Orcenstein, the ork is attacking Peter, the human.
+Peter, the human has taken 7 damage.
+Peter, the human has died!
+Brag, the ork is attacking William, the human.
+William, the human has taken 20 damage.
+William, the human has died!
+Horde wins!
