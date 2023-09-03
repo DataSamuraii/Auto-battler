@@ -56,9 +56,9 @@ def start_game():
         choice = input("\nChoose an option: ")
 
         if choice == "1":
-            print('\t '.join(map(str, alliance_squad.get_characters())))
+            print('\t '.join(map(str, alliance_squad.characters)))
         elif choice == "2":
-            print(horde_squad.get_characters())
+            print(horde_squad.characters)
         elif choice == "3":
             alliance_squad = initialize_squad("Alliance")
             print(f'{alliance_squad.side} has been reinitialized')

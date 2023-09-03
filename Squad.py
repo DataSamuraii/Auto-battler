@@ -63,11 +63,23 @@ class Squad:
     def __init__(self, side, event_manager):
         self._characters = []
         self._enhanced_characters = []
-        self.side = side
+        self._side = side
         self.event_manager = event_manager
         self.event_manager.add_listener('character_enhanced', self.on_character_enhanced)
         self.event_manager.add_listener('character_dehanced', self.on_character_dehanced)
         self.event_manager.add_listener('character_died', self.on_character_death)
+
+    @property
+    def side(self):
+        return self._side
+
+    @property
+    def characters(self):
+        return self._characters
+
+    @property
+    def enhanced_characters(self):
+        return self._enhanced_characters
 
     def on_character_enhanced(self, event):
         if event.data not in self._enhanced_characters:
@@ -90,9 +102,3 @@ class Squad:
         for char in character_list:
             char.event_manager = self.event_manager
             self._characters.append(char)
-
-    def get_characters(self):
-        return self._characters
-
-    def get_enhanced_characters(self):
-        return self._enhanced_characters
