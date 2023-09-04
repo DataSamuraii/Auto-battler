@@ -1,279 +1,273 @@
-Nicholas, the human is attacking Gnurk, the ork.
-Gnurk, the ork has taken 18 damage.
-Kevin, the human is attacking Unlaylay, the ork.
-Unlaylay, the ork has taken 5 damage.
-Evan, the human is attacking Gnurk, the ork.
-Gnurk, the ork has taken 18 damage.
-Lucas, the human is attacking Tax, the ork.
-Tax, the ork has taken 3 damage.
-Zachary, the human uses enhance
-Henry, the human has been enhanced
-Henry, the human is attacking Olm, the ork.
-Henry, the human has enhanced damage.
-Olm, the ork has taken 7.5 damage.
-William, the human is attacking Tuh, the ork.
-Tuh, the ork has taken 18 damage.
-Isaac, the human is attacking Gnurk, the ork.
-Gnurk, the ork has taken 18 damage.
-Henry, the human is attacking Olm, the ork.
-Olm, the ork has taken 5 damage.
-Gnurk, the ork is attacking Zachary, the human.
-Zachary, the human has taken 2 damage.
-Tuh, the ork is attacking Kevin, the human.
-Kevin, the human has taken 20 damage.
-Tax, the ork is attacking William, the human.
-William, the human has taken 20 damage.
-Brush, the ork is attacking Isaac, the human.
-Isaac, the human has taken 7 damage.
-Olm, the ork is attacking Isaac, the human.
-Isaac, the human has taken 3 damage.
-Unlaylay, the ork is attacking Nicholas, the human.
-Nicholas, the human has taken 20 damage.
-Fomo, the ork is attacking Nicholas, the human.
-Nicholas, the human has taken 20 damage.
-Brox, the ork is attacking Isaac, the human.
-Isaac, the human has taken 2 damage.
-Nicholas, the human is attacking Fomo, the ork.
-Fomo, the ork has taken 18 damage.
-Evan, the human is attacking Fomo, the ork.
-Fomo, the ork has taken 18 damage.
-Lucas, the human is attacking Fomo, the ork.
-Fomo, the ork has taken 5 damage.
-Henry, the human is attacking Gnurk, the ork.
-Gnurk, the ork has taken 5 damage.
-Kevin, the human is attacking Brox, the ork.
-Brox, the ork has taken 5 damage.
-Isaac, the human is attacking Tax, the ork.
-Tax, the ork has taken 18 damage.
-Zachary, the human uses enhance
-William, the human has been enhanced
-William, the human is attacking Fomo, the ork.
-William, the human has enhanced damage.
-Fomo, the ork has taken 27.0 damage.
-William, the human is attacking Brox, the ork.
-Brox, the ork has taken 18 damage.
-Fomo, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Tuh, the ork is attacking William, the human.
-William, the human has taken 20 damage.
-Brox, the ork is attacking Lucas, the human.
-Lucas, the human has taken 2 damage.
-Olm, the ork is attacking Kevin, the human.
-Kevin, the human has taken 2 damage.
-Brush, the ork is attacking Isaac, the human.
-Isaac, the human has taken 7 damage.
-Gnurk, the ork is attacking Evan, the human.
-Evan, the human has taken 2 damage.
-Unlaylay, the ork is attacking Zachary, the human.
-Zachary, the human has taken 20 damage.
-Tax, the ork is attacking Evan, the human.
-Evan, the human has taken 20 damage.
-Fomo, the ork is attacking William, the human.
-William, the human has taken 20 damage.
-Tax, the ork is attacking Evan, the human.
-Evan, the human has taken 20 damage.
-Olm, the ork is attacking Lucas, the human.
-Lucas, the human has taken 2 damage.
-Tuh, the ork is attacking Isaac, the human.
-Isaac, the human has taken 20 damage.
-Brush, the ork uses enhance
-Unlaylay, the ork has been enhanced
-Unlaylay, the ork is attacking Evan, the human.
-Unlaylay, the ork has enhanced damage.
-Evan, the human has taken 30.0 damage.
-Gnurk, the ork is attacking Lucas, the human.
-Lucas, the human has taken 2 damage.
-Unlaylay, the ork is attacking Nicholas, the human.
-Nicholas, the human has taken 20 damage.
-Brox, the ork is attacking Isaac, the human.
-Isaac, the human has taken 2 damage.
-Henry, the human is attacking Tax, the ork.
-Tax, the ork has taken 5 damage.
-Lucas, the human is attacking Brox, the ork.
-Brox, the ork has taken 3 damage.
-Nicholas, the human is attacking Brush, the ork.
-Brush, the ork has taken 18 damage.
-Evan, the human is attacking Tax, the ork.
-Tax, the ork has taken 18 damage.
-William, the human is attacking Tax, the ork.
-Tax, the ork has taken 18 damage.
-Isaac, the human is attacking Tax, the ork.
-Tax, the ork has taken 18 damage.
-Kevin, the human is attacking Olm, the ork.
-Olm, the ork has taken 5 damage.
-Zachary, the human uses enhance
-Evan, the human has been enhanced
-Evan, the human is attacking Nicholas, the human.
-Evan, the human has enhanced damage.
-Nicholas, the human has taken 27.0 damage.
-Tax, the ork is attacking Kevin, the human.
-Kevin, the human has taken 20 damage.
-Olm, the ork is attacking Lucas, the human.
-Lucas, the human has taken 2 damage.
-Tuh, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Unlaylay, the ork is attacking Henry, the human.
-Henry, the human has taken 20 damage.
-Brox, the ork is attacking Evan, the human.
-Evan, the human has taken 3 damage.
-Brush, the ork is attacking Kevin, the human.
-Kevin, the human has taken 7 damage.
-Fomo, the ork is attacking Nicholas, the human.
-Nicholas, the human has taken 20 damage.
-Nicholas, the human has died!
-Gnurk, the ork is attacking Isaac, the human.
-Isaac, the human has taken 2 damage.
-Gnurk, the ork is attacking Zachary, the human.
-Zachary, the human has taken 3 damage.
-Tuh, the ork is attacking Isaac, the human.
-Isaac, the human has taken 20 damage.
-Unlaylay, the ork is attacking Kevin, the human.
-Kevin, the human has taken 20 damage.
-Fomo, the ork is attacking Kevin, the human.
-Kevin, the human has taken 20 damage.
-Brox, the ork is attacking Henry, the human.
-Henry, the human has taken 3 damage.
-Brush, the ork is attacking Lucas, the human.
-Lucas, the human has taken 7 damage.
-Olm, the ork is attacking Lucas, the human.
-Lucas, the human has taken 3 damage.
-Tax, the ork is attacking Isaac, the human.
-Isaac, the human has taken 20 damage.
-Evan, the human is attacking Tuh, the ork.
-Tuh, the ork has taken 18 damage.
-Lucas, the human is attacking Fomo, the ork.
-Fomo, the ork has taken 3 damage.
-Henry, the human is attacking Gnurk, the ork.
-Gnurk, the ork has taken 3 damage.
-Isaac, the human is attacking Fomo, the ork.
-Fomo, the ork has taken 18 damage.
-Kevin, the human is attacking Tuh, the ork.
-Tuh, the ork has taken 3 damage.
-Zachary, the human uses enhance
-William, the human has been enhanced
-William, the human is attacking Olm, the ork.
-William, the human has enhanced damage.
-Olm, the ork has taken 27.0 damage.
-William, the human is attacking Tuh, the ork.
-Tuh, the ork has taken 18 damage.
-Kevin, the human is attacking Brush, the ork.
-Brush, the ork has taken 3 damage.
-Evan, the human is attacking Brush, the ork.
-Brush, the ork has taken 18 damage.
-William, the human is attacking Fomo, the ork.
-Fomo, the ork has taken 18 damage.
-Fomo, the ork has died!
-Isaac, the human is attacking Tuh, the ork.
-Tuh, the ork has taken 18 damage.
-Henry, the human is attacking Brox, the ork.
-Brox, the ork has taken 5 damage.
-Zachary, the human is attacking Brush, the ork.
-Brush, the ork has taken 4 damage.
-Lucas, the human is attacking Tuh, the ork.
-Tuh, the ork has taken 5 damage.
-Tax, the ork is attacking Isaac, the human.
-Isaac, the human has taken 20 damage.
-Isaac, the human has died!
-Gnurk, the ork is attacking Henry, the human.
-Henry, the human has taken 3 damage.
-Brush, the ork is attacking Lucas, the human.
-Lucas, the human has taken 7 damage.
-Brox, the ork is attacking Henry, the human.
-Henry, the human has taken 2 damage.
-Unlaylay, the ork is attacking Kevin, the human.
-Kevin, the human has taken 20 damage.
-Kevin, the human has died!
-Tuh, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Olm, the ork is attacking Zachary, the human.
-Zachary, the human has taken 2 damage.
-William, the human is attacking Tuh, the ork.
-Tuh, the ork has taken 18 damage.
-Evan, the human is attacking Brox, the ork.
-Brox, the ork has taken 18 damage.
-Henry, the human is attacking Brox, the ork.
-Brox, the ork has taken 5 damage.
-Lucas, the human is attacking Unlaylay, the ork.
-Unlaylay, the ork has taken 3 damage.
-Zachary, the human uses enhance
-Lucas, the human has been enhanced
-Lucas, the human is attacking Lucas, the human.
-Lucas, the human has enhanced damage.
-Lucas, the human has taken 7.5 damage.
-Brush, the ork uses enhance
-Tuh, the ork has been enhanced
-Tuh, the ork is attacking Henry, the human.
-Tuh, the ork has enhanced damage.
-Henry, the human has taken 30.0 damage.
-Olm, the ork is attacking Zachary, the human.
-Zachary, the human has taken 2 damage.
-Tax, the ork is attacking Evan, the human.
-Evan, the human has taken 20 damage.
-Tuh, the ork is attacking Evan, the human.
-Evan, the human has taken 20 damage.
-Evan, the human has died!
-Gnurk, the ork is attacking Zachary, the human.
-Zachary, the human has taken 2 damage.
-Unlaylay, the ork is attacking Lucas, the human.
-Lucas, the human has taken 20 damage.
-Lucas, the human has died!
-Brox, the ork is attacking William, the human.
-William, the human has taken 3 damage.
-Zachary, the human is attacking Gnurk, the ork.
-Gnurk, the ork has taken 4 damage.
-William, the human is attacking Brush, the ork.
-Brush, the ork has taken 18 damage.
-Henry, the human is attacking Tax, the ork.
-Tax, the ork has taken 5 damage.
-William, the human is attacking Tuh, the ork.
-Tuh, the ork has taken 18 damage.
-Tuh, the ork has died!
-Henry, the human is attacking Tax, the ork.
-Tax, the ork has taken 5 damage.
-Zachary, the human uses enhance
+Samuel, the human is attacking Crypt, the undead.
+Crypt, the undead has taken 5 damage.
+Brandon, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+Daniel, the human uses enhance
 Zachary, the human has been enhanced
-Zachary, the human is attacking Brox, the ork.
+Zachary, the human is attacking Crypt, the undead.
 Zachary, the human has enhanced damage.
-Brox, the ork has taken 6.0 damage.
-William, the human is attacking Olm, the ork.
-Olm, the ork has taken 18 damage.
-Henry, the human is attacking Olm, the ork.
-Olm, the ork has taken 5 damage.
-Zachary, the human uses enhance
-William, the human has been enhanced
-William, the human is attacking William, the human.
-William, the human has enhanced damage.
-William, the human has taken 27.0 damage.
-Brox, the ork is attacking William, the human.
-William, the human has taken 3 damage.
-Unlaylay, the ork is attacking Henry, the human.
-Henry, the human has taken 20 damage.
-Gnurk, the ork is attacking Zachary, the human.
-Zachary, the human has taken 3 damage.
-Olm, the ork is attacking Henry, the human.
-Henry, the human has taken 3 damage.
-Tax, the ork is attacking William, the human.
-William, the human has taken 20 damage.
-William, the human has died!
-Brush, the ork uses enhance
-Unlaylay, the ork has been enhanced
-Unlaylay, the ork is attacking Henry, the human.
-Unlaylay, the ork has enhanced damage.
-Henry, the human has taken 30.0 damage.
-Henry, the human has died!
-Olm, the ork is attacking Zachary, the human.
-Zachary, the human has taken 3 damage.
-Brush, the ork is attacking Zachary, the human.
-Zachary, the human has taken 7 damage.
-Tax, the ork is attacking Zachary, the human.
-Zachary, the human has taken 20 damage.
-Unlaylay, the ork is attacking Zachary, the human.
-Zachary, the human has taken 20 damage.
-Brox, the ork is attacking Zachary, the human.
-Zachary, the human has taken 3 damage.
-Gnurk, the ork is attacking Zachary, the human.
-Zachary, the human has taken 3 damage.
-Unlaylay, the ork is attacking Zachary, the human.
-Zachary, the human has taken 20 damage.
+Crypt, the undead has taken 27.0 damage.
+Oliver, the human is attacking Thanatos, the undead.
+Thanatos, the undead has taken 5 damage.
+Evan, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 18 damage.
+Peter, the human is attacking Crypt, the undead.
+Crypt, the undead has taken 18 damage.
+Zachary, the human is attacking Thanatos, the undead.
+Thanatos, the undead has taken 18 damage.
+Caleb, the human is attacking Maggot, the undead.
+Maggot, the undead has taken 5 damage.
+Samuel, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 5 damage.
+Brandon, the human is attacking Maggot, the undead.
+Maggot, the undead has taken 18 damage.
+Caleb, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 5 damage.
+Oliver, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 5 damage.
+Zachary, the human is attacking Crypt, the undead.
+Crypt, the undead has taken 18 damage.
+Peter, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 18 damage.
+Daniel, the human uses enhance
+Evan, the human has been enhanced
+Evan, the human is attacking D.K., the undead.
+Evan, the human has enhanced damage.
+D.K., the undead has taken 27.0 damage.
+Evan, the human is attacking Thanatos, the undead.
+Thanatos, the undead has taken 18 damage.
+Deeprot, the undead uses enhance
+D.K., the undead has been enhanced
+D.K., the undead is attacking Brandon, the human.
+D.K., the undead has enhanced damage.
+Brandon, the human has taken 27.0 damage.
+Mortis, the undead is attacking Samuel, the human.
+Samuel, the human has taken 4 damage.
+Maggot, the undead is attacking Daniel, the human.
+Daniel, the human has taken 18 damage.
+Cephalophore, the undead is attacking Zachary, the human.
+Zachary, the human has taken 18 damage.
+Thanatos, the undead is attacking Oliver, the human.
+Oliver, the human has taken 18 damage.
+Mortis, the undead is attacking Oliver, the human.
+Oliver, the human has taken 4 damage.
+D.K., the undead is attacking Caleb, the human.
+Caleb, the human has taken 18 damage.
+Crypt, the undead is attacking Daniel, the human.
+Daniel, the human has taken 2 damage.
+Cephalophore, the undead is attacking Caleb, the human.
+Caleb, the human has taken 18 damage.
+Mortis, the undead is attacking Oliver, the human.
+Oliver, the human has taken 2 damage.
+Deeprot, the undead is attacking Peter, the human.
+Peter, the human has taken 5 damage.
+Thanatos, the undead is attacking Daniel, the human.
+Daniel, the human has taken 18 damage.
+Crypt, the undead is attacking Peter, the human.
+Peter, the human has taken 4 damage.
+Mortis, the undead is attacking Peter, the human.
+Peter, the human has taken 4 damage.
+Maggot, the undead is attacking Oliver, the human.
+Oliver, the human has taken 18 damage.
+D.K., the undead is attacking Oliver, the human.
+Oliver, the human has taken 18 damage.
+Cephalophore, the undead is attacking Daniel, the human.
+Daniel, the human has taken 18 damage.
+Maggot, the undead is attacking Brandon, the human.
+Brandon, the human has taken 18 damage.
+Mortis, the undead is attacking Daniel, the human.
+Daniel, the human has taken 2 damage.
+Crypt, the undead is attacking Brandon, the human.
+Brandon, the human has taken 4 damage.
+Mortis, the undead is attacking Samuel, the human.
+Samuel, the human has taken 2 damage.
+D.K., the undead is attacking Caleb, the human.
+Caleb, the human has taken 18 damage.
+Deeprot, the undead uses enhance
+Thanatos, the undead has been enhanced
+Thanatos, the undead is attacking Zachary, the human.
+Thanatos, the undead has enhanced damage.
+Zachary, the human has taken 27.0 damage.
+Thanatos, the undead is attacking Oliver, the human.
+Oliver, the human has taken 18 damage.
+Cephalophore, the undead is attacking Peter, the human.
+Peter, the human has taken 18 damage.
+Thanatos, the undead is attacking Brandon, the human.
+Brandon, the human has taken 18 damage.
+Mortis, the undead is attacking Caleb, the human.
+Caleb, the human has taken 2 damage.
+Mortis, the undead is attacking Peter, the human.
+Peter, the human has taken 4 damage.
+Deeprot, the undead is attacking Evan, the human.
+Evan, the human has taken 5 damage.
+Maggot, the undead is attacking Peter, the human.
+Peter, the human has taken 18 damage.
+D.K., the undead is attacking Oliver, the human.
+Oliver, the human has taken 18 damage.
+Crypt, the undead is attacking Zachary, the human.
+Zachary, the human has taken 4 damage.
+Zachary, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+Samuel, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 3 damage.
+Peter, the human is attacking Maggot, the undead.
+Maggot, the undead has taken 18 damage.
+Caleb, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 3 damage.
+Evan, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 18 damage.
+Daniel, the human uses enhance
+Brandon, the human has been enhanced
+Brandon, the human is attacking D.K., the undead.
+Brandon, the human has enhanced damage.
+D.K., the undead has taken 27.0 damage.
+Oliver, the human is attacking D.K., the undead.
+D.K., the undead has taken 5 damage.
+Brandon, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 18 damage.
+Cephalophore, the undead is attacking Brandon, the human.
+Brandon, the human has taken 18 damage.
+Thanatos, the undead is attacking Brandon, the human.
+Brandon, the human has taken 18 damage.
+Brandon, the human has died!
+Mortis, the undead is attacking Caleb, the human.
+Caleb, the human has taken 2 damage.
+Crypt, the undead is attacking Zachary, the human.
+Zachary, the human has taken 2 damage.
+Deeprot, the undead is attacking Caleb, the human.
+Caleb, the human has taken 5 damage.
+D.K., the undead is attacking Peter, the human.
+Peter, the human has taken 18 damage.
+Maggot, the undead is attacking Evan, the human.
+Evan, the human has taken 18 damage.
+Mortis, the undead is attacking Peter, the human.
+Peter, the human has taken 2 damage.
+Oliver, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 5 damage.
+Samuel, the human is attacking D.K., the undead.
+D.K., the undead has taken 5 damage.
+Daniel, the human uses enhance
+Evan, the human has been enhanced
+Evan, the human is attacking Thanatos, the undead.
+Evan, the human has enhanced damage.
+Thanatos, the undead has taken 27.0 damage.
+Evan, the human is attacking Crypt, the undead.
+Crypt, the undead has taken 18 damage.
+Peter, the human is attacking Thanatos, the undead.
+Thanatos, the undead has taken 18 damage.
+Zachary, the human is attacking Maggot, the undead.
+Maggot, the undead has taken 18 damage.
+Caleb, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 3 damage.
+D.K., the undead is attacking Evan, the human.
+Evan, the human has taken 18 damage.
+Mortis, the undead is attacking Daniel, the human.
+Daniel, the human has taken 4 damage.
+Crypt, the undead is attacking Samuel, the human.
+Samuel, the human has taken 2 damage.
+Maggot, the undead is attacking Oliver, the human.
+Oliver, the human has taken 18 damage.
+Oliver, the human has died!
+Thanatos, the undead is attacking Peter, the human.
+Peter, the human has taken 18 damage.
+Mortis, the undead is attacking Samuel, the human.
+Samuel, the human has taken 2 damage.
+Deeprot, the undead is attacking Caleb, the human.
+Caleb, the human has taken 5 damage.
+Cephalophore, the undead is attacking Samuel, the human.
+Samuel, the human has taken 18 damage.
+Caleb, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 3 damage.
+Daniel, the human is attacking D.K., the undead.
+D.K., the undead has taken 4 damage.
+Zachary, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 18 damage.
+Evan, the human is attacking D.K., the undead.
+D.K., the undead has taken 18 damage.
+Samuel, the human is attacking Crypt, the undead.
+Crypt, the undead has taken 3 damage.
+Peter, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+Mortis, the undead is attacking Daniel, the human.
+Daniel, the human has taken 2 damage.
+Crypt, the undead is attacking Evan, the human.
+Evan, the human has taken 2 damage.
+D.K., the undead is attacking Evan, the human.
+Evan, the human has taken 18 damage.
+Mortis, the undead is attacking Peter, the human.
+Peter, the human has taken 2 damage.
+Maggot, the undead is attacking Samuel, the human.
+Samuel, the human has taken 18 damage.
+Deeprot, the undead uses enhance
+Thanatos, the undead has been enhanced
+Thanatos, the undead is attacking Peter, the human.
+Thanatos, the undead has enhanced damage.
+Peter, the human has taken 27.0 damage.
+Peter, the human has died!
+Thanatos, the undead is attacking Zachary, the human.
+Zachary, the human has taken 18 damage.
+Cephalophore, the undead is attacking Samuel, the human.
+Samuel, the human has taken 18 damage.
+Mortis, the undead is attacking Evan, the human.
+Evan, the human has taken 2 damage.
+Mortis, the undead is attacking Zachary, the human.
+Zachary, the human has taken 2 damage.
+Maggot, the undead is attacking Evan, the human.
+Evan, the human has taken 18 damage.
+D.K., the undead is attacking Zachary, the human.
+Zachary, the human has taken 18 damage.
+Deeprot, the undead uses enhance
+Cephalophore, the undead has been enhanced
+Cephalophore, the undead is attacking Caleb, the human.
+Cephalophore, the undead has enhanced damage.
+Caleb, the human has taken 27.0 damage.
+Crypt, the undead is attacking Samuel, the human.
+Samuel, the human has taken 4 damage.
+Cephalophore, the undead is attacking Evan, the human.
+Evan, the human has taken 18 damage.
+Thanatos, the undead is attacking Evan, the human.
+Evan, the human has taken 18 damage.
+Evan, the human has died!
+Zachary, the human is attacking Maggot, the undead.
+Maggot, the undead has taken 18 damage.
+Samuel, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 5 damage.
+Caleb, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 3 damage.
+Daniel, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 4 damage.
+Samuel, the human is attacking Thanatos, the undead.
+Thanatos, the undead has taken 5 damage.
+Caleb, the human is attacking Mortis, the undead.
+Mortis, the undead has taken 3 damage.
+Daniel, the human is attacking Deeprot, the undead.
+Deeprot, the undead has taken 4 damage.
+Zachary, the human is attacking Cephalophore, the undead.
+Cephalophore, the undead has taken 18 damage.
+D.K., the undead is attacking Zachary, the human.
+Zachary, the human has taken 18 damage.
 Zachary, the human has died!
+Crypt, the undead is attacking Samuel, the human.
+Samuel, the human has taken 2 damage.
+Mortis, the undead is attacking Samuel, the human.
+Samuel, the human has taken 2 damage.
+Deeprot, the undead is attacking Samuel, the human.
+Samuel, the human has taken 5 damage.
+Maggot, the undead is attacking Daniel, the human.
+Daniel, the human has taken 18 damage.
+Cephalophore, the undead is attacking Daniel, the human.
+Daniel, the human has taken 18 damage.
+Daniel, the human has died!
+Thanatos, the undead is attacking Samuel, the human.
+Samuel, the human has taken 18 damage.
+Mortis, the undead is attacking Caleb, the human.
+Caleb, the human has taken 2 damage.
+D.K., the undead is attacking Samuel, the human.
+Samuel, the human has taken 18 damage.
+Samuel, the human has died!
+Mortis, the undead is attacking Caleb, the human.
+Caleb, the human has taken 2 damage.
+Thanatos, the undead is attacking Caleb, the human.
+Caleb, the human has taken 18 damage.
+Caleb, the human has died!
 Horde wins!

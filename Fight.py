@@ -5,10 +5,6 @@ class Fight:
     def __init__(self, squad1, squad2):
         self.squad1 = squad1
         self.squad2 = squad2
-        self.characters1 = self.squad1.characters
-        self.characters2 = self.squad2.characters
-        self.enhanced_characters1 = self.squad1.enhanced_characters
-        self.enhanced_characters2 = self.squad2.enhanced_characters
 
     def choose_random_character(self, squad):
         return random.choice(squad)
@@ -45,12 +41,12 @@ class Fight:
         attackers.extend(temp_char_storage)
 
     def start_fight(self):
-        while self.characters1 and self.characters2:
+        while self.squad1.characters and self.squad2.characters:
             if random.choice([True, False]):
                 self.execute_turn(self.squad1, self.squad2)
             else:
                 self.execute_turn(self.squad2, self.squad1)
-        if self.characters1:
+        if self.squad1.characters:
             return f"{self.squad1.side} wins!"
         else:
             return f"{self.squad2.side} wins!"
